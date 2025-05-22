@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Currently Learning🤨</h1>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwkiadityaa) 
 
 # 💻 Tech Stack:
